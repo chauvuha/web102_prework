@@ -24,10 +24,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="https://i.imgur.com/X2UFSb4.gif"/>
-<img src='https://i.imgur.com/X2UFSb4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![X2UFSb4](https://user-images.githubusercontent.com/79251745/210184009-018874ab-6fa8-4c15-b80b-37fd8db15153.gif)
 
-<img src="https://static01.bbi.io/2Wt9Tk.gif"/>
 
 GIF created with Kap (https://getkap.co/)
 
