@@ -25,7 +25,8 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/Om65E7o"  ><a href="//imgur.com/a/Om65E7o">Chau Vu - Website Walkthrough</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-![Imgur](https://i.imgur.com/X2UFSb4.gif)
+<!-- ![Imgur](https://i.imgur.com/X2UFSb4.gif) -->
+<img src="https://i.imgur.com/X2UFSb4.gif"/>
 
 GIF created with Kap (https://getkap.co/)
 
