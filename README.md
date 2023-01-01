@@ -27,6 +27,8 @@ Here's a walkthrough of implemented features:
 <img src="https://i.imgur.com/X2UFSb4.gif"/>
 <img src='https://i.imgur.com/X2UFSb4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<img src="https://static01.bbi.io/2Wt9Tk.gif"/>
+
 GIF created with Kap (https://getkap.co/)
 
 ## Notes
