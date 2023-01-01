@@ -17,15 +17,14 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [X] The navigation bar includes a button "Our games" that helps users navigate to the list of games more easily.
+* [X] The navigation bar includes a button "Our games" that helps users navigate to the list of games more easily and smoothly.
 * [X] The CSS file of the website is modified and changed in terms of text alignments, colors, or flex-box arrangements to make the website more aesthetically pleasing.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-![X2UFSb4](https://user-images.githubusercontent.com/79251745/210184009-018874ab-6fa8-4c15-b80b-37fd8db15153.gif)
-
+![chauvu-seamonsterweb](https://user-images.githubusercontent.com/79251745/210184847-6b17bc78-11ec-4d76-bd35-e7f5b433675c.gif)
 
 GIF created with Kap (https://getkap.co/)
 
